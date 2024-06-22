@@ -103,10 +103,6 @@ All protected endpoints require the `Authorization` header with a valid token.
 
 ## Contact
 
-For any queries or issues, please contact **Ashok Zarmariya** at `ashokzarmariya@gmail.com`.
-
-## License
-
-This API is licensed under **Ashok Zarmariya**.
+For any queries or issues, please contact **Shiv Mahato** at `shivmahato000@gmail.com`.
 
 
