@@ -22,7 +22,7 @@ const createPaymentLink= async (orderId)=>{
             email: true,
           },
           reminder_enable: true,
-          callback_url: `https://trymydemoapp.netlify.app/payment/${orderId}`,
+          callback_url: `https://testmydemoapp.netlify.app/payment/${orderId}`,
           callback_method: 'get',
         };
     
